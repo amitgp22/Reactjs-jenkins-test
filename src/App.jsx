@@ -11,9 +11,10 @@ defaultValue={'Won\'t focus'}
 />
 <input
 ref={inputElRef}
-defaultValue={'Will focus'}
+defaultValue={'Will focus on the input box'}
 />
 </div>
 )
 }
 export default App;
+
